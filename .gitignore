@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+output/
+test_output/
+glossary.db
+*.log
+*_error.log
+test_paper.pdf
+_miktex_download.html
